@@ -1,0 +1,11 @@
+name = AE-undervisning
+description = Theme for AE, to be the core of educational material.
+package = Core
+version = 1.0
+core = 7.x
+stylesheets[all][] = style.css
+
+;-------------- CSS FOAD -------------
+stylesheets[all][] = system.messages.css
+stylesheets[all][] = comment.css
+stylesheets[all][] = node.css

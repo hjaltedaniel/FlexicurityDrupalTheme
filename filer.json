@@ -1,0 +1,111 @@
+ ["safe_summary"] => string(0)
+ ""
+ }
+ }
+ }["field_headerbillede_bg"] => array(1) {
+     ["und"] => array(1) {
+         [0] => array(11) {
+             ["fid"] => string(2)
+             "11" ["uid"] => string(1)
+             "1" ["filename"] => string(21)
+             "COLOURBOX28460680.JPG" ["uri"] => string(30)
+             "public://COLOURBOX28460680.JPG" ["filemime"] => string(10)
+             "image/jpeg" ["filesize"] => string(6)
+             "577131" ["status"] => string(1)
+             "1" ["timestamp"] => string(10)
+             "1524058441" ["rdf_mapping"] => array(0) {}["display"] => string(1)
+             "1" ["description"] => string(0)
+             ""
+         }
+     }
+ }["field_filer"] => array(1) {
+     ["und"] => array(2) {
+         [0] => array(11) {
+             ["fid"] => string(2)
+             "14" ["uid"] => string(1)
+             "1" ["filename"] => string(15)
+             "arbejdstid.xlsx" ["uri"] => string(24)
+             "public://arbejdstid.xlsx" ["filemime"] => string(65)
+             "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ["filesize"] => string(5)
+             "13588" ["status"] => string(1)
+             "1" ["timestamp"] => string(10)
+             "1526560935" ["rdf_mapping"] => array(0) {}["display"] => string(1)
+             "1" ["description"] => string(0)
+             ""
+         }[1] => array(11) {
+             ["fid"] => string(2)
+             "15" ["uid"] => string(1)
+             "1" ["filename"] => string(38)
+             "Regneark3_Arvingers formue og arv.xlsx" ["uri"] => string(47)
+             "public://Regneark3_Arvingers formue og arv.xlsx" ["filemime"] => string(65)
+             "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ["filesize"] => string(5)
+             "14048" ["status"] => string(1)
+             "1" ["timestamp"] => string(10)
+             "1526561304" ["rdf_mapping"] => array(0) {}["display"] => string(1)
+             "1" ["description"] => string(0)
+             ""
+         }
+     }
+ }["rdf_mapping"] => array(9) {
+     ["rdftype"] => array(2) {
+         [0] => string(9)
+         "sioc:Item" [1] => string(13)
+         "foaf:Document"
+     }["title"] => array(1) {
+         ["predicates"] => array(1) {
+             [0] => string(8)
+             "dc:title"
+         }
+     }["created"] => array(3) {
+         ["predicates"] => array(2) {
+             [0] => string(7)
+             "dc:date" [1] => string(10)
+             "dc:created"
+         }["datatype"] => string(12)
+         "xsd:dateTime" ["callback"] => string(12)
+         "date_iso8601"
+     }["changed"] => array(3) {
+         ["predicates"] => array(1) {
+             [0] => string(11)
+             "dc:modified"
+         }["datatype"] => string(12)
+         "xsd:dateTime" ["callback"] => string(12)
+         "date_iso8601"
+     }["body"] => array(1) {
+         ["predicates"] => array(1) {
+             [0] => string(15)
+             "content:encoded"
+         }
+     }["uid"] => array(2) {
+         ["predicates"] => array(1) {
+             [0] => string(16)
+             "sioc:has_creator"
+         }["type"] => string(3)
+         "rel"
+     }["name"] => array(1) {
+         ["predicates"] => array(1) {
+             [0] => string(9)
+             "foaf:name"
+         }
+     }["comment_count"] => array(2) {
+         ["predicates"] => array(1) {
+             [0] => string(16)
+             "sioc:num_replies"
+         }["datatype"] => string(11)
+         "xsd:integer"
+     }["last_activity"] => array(3) {
+         ["predicates"] => array(1) {
+             [0] => string(23)
+             "sioc:last_activity_date"
+         }["datatype"] => string(12)
+         "xsd:dateTime" ["callback"] => string(12)
+         "date_iso8601"
+     }
+ }["path"] => array(1) {
+     ["pathauto"] => string(1)
+     "1"
+ }["name"] => string(5)
+ "admin" ["picture"] => string(1)
+ "0" ["data"] => string(4)
+ "b:0;" ["entity_view_prepared"] => bool(true)
+ }
